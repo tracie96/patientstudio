@@ -30,6 +30,9 @@ interface TagCounts {
   tag: string
   count: number
 }
+interface TagTypes {
+  [key: string]: TagCounts
+}
 
 interface ImportedItem {
   name: string
