@@ -38,3 +38,7 @@ This template comes packaged with a `start` and `watch-and-run` NPM script.
 5. Assing `morficus` and `jefferson2z` as reviewers on the pull request
 6. Create a [Loom video](https://www.loom.com/) where you walk through and explain your changes (feel free to do more than one video if needed)
 7. Include a link to the Loom video in the PR description
+
+## Submitted Videos
+1. https://www.loom.com/share/1b3615f860cf4a6dab28db8102982205 - Talks about returnSiteTitles and findTagCounts
+2. https://www.loom.com/share/2a27c0fac8014c7e8b969e0b25d7615c - I Talked about calcualteImportCost
